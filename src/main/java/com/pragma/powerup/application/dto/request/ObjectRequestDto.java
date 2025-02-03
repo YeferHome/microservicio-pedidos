@@ -7,4 +7,6 @@ import lombok.Setter;
 @Setter
 public class ObjectRequestDto {
     private String name;
+
+
 }
